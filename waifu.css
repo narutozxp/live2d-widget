@@ -6,10 +6,10 @@
 	cursor: pointer;
 	font-size: 12px;
 	right: 0;
-	margin-right: -100px;
+	margin-left: -100px;
 	padding: 5px 2px 5px 5px;
 	position: fixed;
-	transition: margin-right 1s;
+	transition: margin-left 1s;
 	width: 60px;
 	writing-mode: vertical-rl;
 }
