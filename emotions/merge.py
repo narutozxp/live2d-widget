@@ -6,20 +6,19 @@ BASE_DIR = Path(__file__).parent
 OUT_FILE = BASE_DIR.parent / "owo.json"
 
 # ===== 合并顺序控制 =====
-# 为None的时候，emotions目录下的json都会被合并
-# ALLOW_LIST = None
+# 为 None 时：合并 emotion 目录下所有 .json（按文件名排序）
+# 为 list 时：严格按 list 顺序合并（按名字去找同名 .json）
 ALLOW_LIST = [
-    "颜文字", 
-    "Emoji"
+    "颜文字",
+    "Emoji",
 ]
+# ALLOW_LIST = None
 
 merged = {}
 
 if ALLOW_LIST:
-    # 严格按照 ALLOW_LIST 顺序
     files = [BASE_DIR / f"{name}.json" for name in ALLOW_LIST]
 else:
-    # 默认：按文件名排序
     files = sorted(BASE_DIR.glob("*.json"))
 
 for fp in files:
@@ -28,13 +27,19 @@ for fp in files:
 
     try:
         with fp.open("r", encoding="utf-8") as f:
-            merged[fp.stem] = json.load(f)
+            data = json.load(f)
     except json.JSONDecodeError as e:
         raise SystemExit(f"❌ JSON 解析失败: {fp} (line {e.lineno}, col {e.colno})")
     except OSError as e:
         raise SystemExit(f"❌ 读取文件失败: {fp} - {e}")
 
+    if not isinstance(data, dict):
+        raise SystemExit(f"❌ JSON 顶层必须是 object/dict: {fp}")
+
+    # 直接摊平合并：后面的文件会覆盖前面同名 key
+    merged.update(data)
+
 with OUT_FILE.open("w", encoding="utf-8") as f:
     json.dump(merged, f, ensure_ascii=False, separators=(",", ":"))
 
-print(f"✅ merged {len(merged)} files -> {OUT_FILE}")
+print(f"✅ merged {len(files)} files, total keys={len(merged)} -> {OUT_FILE}")
