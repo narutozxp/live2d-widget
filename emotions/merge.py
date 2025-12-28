@@ -9,7 +9,8 @@ OUT_FILE = BASE_DIR.parent / "owo.json"
 # 为None的时候，emotions目录下的json都会被合并
 # ALLOW_LIST = None
 ALLOW_LIST = [
-    "sad", 
+    "颜文字", 
+    "Emoji"
 ]
 
 merged = {}
