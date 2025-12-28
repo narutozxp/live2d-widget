@@ -18,7 +18,7 @@ jobs:
 
       - name: Run merge script
         run: |
-          python3 emotion/merge.py
+          python3 emotions/merge.py
 
       # 如果不想提交 owo.json，可删掉这个 step
       - name: Commit owo.json
@@ -50,3 +50,4 @@ jobs:
           tag_name: ${{ steps.tag.outputs.tag }}
           name: ${{ steps.tag.outputs.tag }}
           files: owo.json
+
