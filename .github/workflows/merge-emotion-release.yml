@@ -33,21 +33,3 @@ jobs:
           git commit -m "chore: update owo.json"
           git push
 
-      - name: Create tag
-        id: tag
-        run: |
-          TAG="owo-$(date -u +'%Y%m%d-%H%M%S')"
-          echo "tag=$TAG" >> $GITHUB_OUTPUT
-
-      - name: Push tag
-        run: |
-          git tag "${{ steps.tag.outputs.tag }}"
-          git push origin "${{ steps.tag.outputs.tag }}"
-
-      - name: Create Release
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: ${{ steps.tag.outputs.tag }}
-          name: ${{ steps.tag.outputs.tag }}
-          files: owo.json
-
