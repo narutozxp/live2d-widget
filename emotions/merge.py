@@ -11,6 +11,31 @@ OUT_FILE = BASE_DIR.parent / "owo.json"
 ALLOW_LIST = [
     "颜文字",
     "Emoji",
+    "qq",
+    "贴吧",
+    "bilibili动态小电视",
+    "bilibili小电视",
+    "2233娘",
+    "bilibili热词",
+    "微博",
+    "钉钉",
+    "Heybox",
+    "Tsuri-me-ju_mimi",
+    "Yurui-Neko",
+    "Sweetie-Bunny",
+    "Menhera-chan",
+    "Snow-Miku",
+    "Arcaea",
+    "Mafumafu",
+    "Marup",
+    "酷安",
+    "嗷大喵",
+    "魔女之旅",
+    "阿狸",
+    "兔斯基",
+    "滑稽",
+    "罗小黑",
+    "那兔"
 ]
 # ALLOW_LIST = None
 

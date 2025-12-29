@@ -1,0 +1,375 @@
+{
+    "QQ": {
+    "type": "image",
+    "container": [
+      {
+        "text": "QQ-OK",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/OK.gif'>"
+      },
+      {
+        "text": "QQ-aini",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/aini.gif'>"
+      },
+      {
+        "text": "QQ-aixin",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/aixin.gif'>"
+      },
+      {
+        "text": "QQ-aoman",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/aoman.gif'>"
+      },
+      {
+        "text": "QQ-baiyan",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/baiyan.gif'>"
+      },
+      {
+        "text": "QQ-bangbangtang",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/bangbangtang.gif'>"
+      },
+      {
+        "text": "QQ-baojin",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/baojin.gif'>"
+      },
+      {
+        "text": "QQ-baoquan",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/baoquan.gif'>"
+      },
+      {
+        "text": "QQ-bishi",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/bishi.gif'>"
+      },
+      {
+        "text": "QQ-bizui",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/bizui.gif'>"
+      },
+      {
+        "text": "QQ-cahan",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/cahan.gif'>"
+      },
+      {
+        "text": "QQ-caidao",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/caidao.gif'>"
+      },
+      {
+        "text": "QQ-chi",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/chi.gif'>"
+      },
+      {
+        "text": "QQ-ciya",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/ciya.gif'>"
+      },
+      {
+        "text": "QQ-dabing",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/dabing.gif'>"
+      },
+      {
+        "text": "QQ-daku",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/daku.gif'>"
+      },
+      {
+        "text": "QQ-dan",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/dan.gif'>"
+      },
+      {
+        "text": "QQ-deyi",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/deyi.gif'>"
+      },
+      {
+        "text": "QQ-doge",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/doge.gif'>"
+      },
+      {
+        "text": "QQ-fadai",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/fadai.gif'>"
+      },
+      {
+        "text": "QQ-fanu",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/fanu.gif'>"
+      },
+      {
+        "text": "QQ-fendou",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/fendou.gif'>"
+      },
+      {
+        "text": "QQ-ganga",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/ganga.gif'>"
+      },
+      {
+        "text": "QQ-gouyin",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/gouyin.gif'>"
+      },
+      {
+        "text": "QQ-guzhang",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/guzhang.gif'>"
+      },
+      {
+        "text": "QQ-haixiu",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/haixiu.gif'>"
+      },
+      {
+        "text": "QQ-hanxiao",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/hanxiao.gif'>"
+      },
+      {
+        "text": "QQ-haobang",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/haobang.gif'>"
+      },
+      {
+        "text": "QQ-haqian",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/haqian.gif'>"
+      },
+      {
+        "text": "QQ-hecai",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/hecai.gif'>"
+      },
+      {
+        "text": "QQ-hexie",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/hexie.gif'>"
+      },
+      {
+        "text": "QQ-huaixiao",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/huaixiao.gif'>"
+      },
+      {
+        "text": "QQ-jie",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/jie.gif'>"
+      },
+      {
+        "text": "QQ-jingkong",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/jingkong.gif'>"
+      },
+      {
+        "text": "QQ-jingxi",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/jingxi.gif'>"
+      },
+      {
+        "text": "QQ-jingya",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/jingya.gif'>"
+      },
+      {
+        "text": "QQ-juhua",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/juhua.gif'>"
+      },
+      {
+        "text": "QQ-keai",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/keai.gif'>"
+      },
+      {
+        "text": "QQ-kelian",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/kelian.gif'>"
+      },
+      {
+        "text": "QQ-koubi",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/koubi.gif'>"
+      },
+      {
+        "text": "QQ-ku",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/ku.gif'>"
+      },
+      {
+        "text": "QQ-kuaikule",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/kuaikule.gif'>"
+      },
+      {
+        "text": "QQ-kulou",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/kulou.gif'>"
+      },
+      {
+        "text": "QQ-kun",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/kun.gif'>"
+      },
+      {
+        "text": "QQ-lanqiu",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/lanqiu.gif'>"
+      },
+      {
+        "text": "QQ-leiben",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/leiben.gif'>"
+      },
+      {
+        "text": "QQ-lenghan",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/lenghan.gif'>"
+      },
+      {
+        "text": "QQ-liuhan",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/liuhan.gif'>"
+      },
+      {
+        "text": "QQ-liulei",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/liulei.gif'>"
+      },
+      {
+        "text": "QQ-nanguo",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/nanguo.gif'>"
+      },
+      {
+        "text": "QQ-penxue",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/penxue.gif'>"
+      },
+      {
+        "text": "QQ-piezui",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/piezui.gif'>"
+      },
+      {
+        "text": "QQ-pijiu",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/pijiu.gif'>"
+      },
+      {
+        "text": "QQ-qiang",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/qiang.gif'>"
+      },
+      {
+        "text": "QQ-qiaoda",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/qiaoda.gif'>"
+      },
+      {
+        "text": "QQ-qinqin",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/qinqin.gif'>"
+      },
+      {
+        "text": "QQ-qiudale",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/qiudale.gif'>"
+      },
+      {
+        "text": "QQ-quantou",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/quantou.gif'>"
+      },
+      {
+        "text": "QQ-saorao",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/saorao.gif'>"
+      },
+      {
+        "text": "QQ-se",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/se.gif'>"
+      },
+      {
+        "text": "QQ-shengli",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/shengli.gif'>"
+      },
+      {
+        "text": "QQ-shouqiang",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/shouqiang.gif'>"
+      },
+      {
+        "text": "QQ-shuai",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/shuai.gif'>"
+      },
+      {
+        "text": "QQ-shui",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/shui.gif'>"
+      },
+      {
+        "text": "QQ-tiaopi",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/tiaopi.gif'>"
+      },
+      {
+        "text": "QQ-touxiao",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/touxiao.gif'>"
+      },
+      {
+        "text": "QQ-tu",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/tu.gif'>"
+      },
+      {
+        "text": "QQ-tuosai",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/tuosai.gif'>"
+      },
+      {
+        "text": "QQ-weiqu",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/weiqu.gif'>"
+      },
+      {
+        "text": "QQ-weixiao",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/weixiao.gif'>"
+      },
+      {
+        "text": "QQ-woshou",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/woshou.gif'>"
+      },
+      {
+        "text": "QQ-wozuimei",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/wozuimei.gif'>"
+      },
+      {
+        "text": "QQ-wunai",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/wunai.gif'>"
+      },
+      {
+        "text": "QQ-xia",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/xia.gif'>"
+      },
+      {
+        "text": "QQ-xiaojiujie",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/xiaojiujie.gif'>"
+      },
+      {
+        "text": "QQ-xiaoku",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/xiaoku.gif'>"
+      },
+      {
+        "text": "QQ-xiaoyanger",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/xiaoyanger.gif'>"
+      },
+      {
+        "text": "QQ-xieyanxiao",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/xieyanxiao.gif'>"
+      },
+      {
+        "text": "QQ-xigua",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/xigua.gif'>"
+      },
+      {
+        "text": "QQ-xu",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/xu.gif'>"
+      },
+      {
+        "text": "QQ-yangtuo",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/yangtuo.gif'>"
+      },
+      {
+        "text": "QQ-yinxian",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/yinxian.gif'>"
+      },
+      {
+        "text": "QQ-yiwen",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/yiwen.gif'>"
+      },
+      {
+        "text": "QQ-youhengheng",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/youhengheng.gif'>"
+      },
+      {
+        "text": "QQ-youling",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/youling.gif'>"
+      },
+      {
+        "text": "QQ-yun",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/yun.gif'>"
+      },
+      {
+        "text": "QQ-zaijian",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/zaijian.gif'>"
+      },
+      {
+        "text": "QQ-zhayanjian",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/zhayanjian.gif'>"
+      },
+      {
+        "text": "QQ-zhemo",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/zhemo.gif'>"
+      },
+      {
+        "text": "QQ-zhouma",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/zhouma.gif'>"
+      },
+      {
+        "text": "QQ-zhuakuang",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/zhuakuang.gif'>"
+      },
+      {
+        "text": "QQ-zuohengheng",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/QQ/zuohengheng.gif'>"
+      }
+    ]
+  }
+}
